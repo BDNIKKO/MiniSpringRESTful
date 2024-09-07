@@ -1,4 +1,4 @@
-package com.example.bookmanagement.model;
+package org.example.minispringrestful;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
